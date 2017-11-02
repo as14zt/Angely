@@ -1,0 +1,19 @@
+.box{
+border: purple 3px dotted;
+margin: 10px;
+height: 200px;
+}
+.box p{ text-align: center;
+  margin-top: 150px;}
+  .box p{font-size: 12px;}
+  .box2 p{text-align: center;}
+  .box2 p{font-size: 10px;}
+  .box2 p{color: green;}
+  .box4 p {color: orange;}
+  .box4 p {font-size:30px;}
+  span {vertical-align: super;}
+  span {color: red;}
+
+.box3 {text-align: right;}
+.box3 {font-size: 8px;}
+.box3 {color: purple;}
