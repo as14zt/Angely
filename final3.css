@@ -1,0 +1,112 @@
+
+body{
+
+
+background: #F8FFAE;
+  background: -webkit-linear-gradient(-65deg, #43C6AC, #F8FFAE);
+  background: linear-gradient(-65deg, #43C6AC, #F8FFAE);
+}
+
+
+#demo {
+text-align: center;
+font-size: 30px;
+background-color: yellow;
+}
+#one {
+color: grey;
+}
+#five {
+color: grey;
+}
+#four {
+color: grey;
+}
+#two {
+color: grey;
+}
+
+#button
+{
+font-size:20px;
+height: 30px;
+width: 100%;
+border-radius: 10px;
+}
+#size
+{
+  font-size: 70px;
+
+}
+#box1 {
+
+height: 100px;
+justify-content: center;
+width: 100%;
+margin: auto;
+padding-top: 10px;
+border: solid;
+border-color: yellow;
+border-radius: 10px;
+background: #F8FFAE;
+text-align: center;
+padding-bottom: 50px;
+font-size: 80px;
+}
+#box2 {
+text-align: center;
+line-height: 1px;
+
+height: 30px;
+width: 100%;
+border: solid;
+border-color: yellow;
+border-radius: 10px;
+background: white;
+font-size: 15px;
+}
+
+
+{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f1f1f1;
+    padding: 20px;
+    font-family: Times;
+}
+
+/* Center website */
+.main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 50px;
+    word-break: break-all;
+}
+
+.row {
+    margin: 8px -16px;
+}
+
+
+/* Create four equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+}
+
+
+
+/* Content */
+.content {
+    background-color: white;
+    padding: 10px;
+}
+#box3 {
+text-align: center;
+color: red;
+}
